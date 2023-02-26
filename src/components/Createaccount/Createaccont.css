@@ -1,0 +1,12 @@
+.litext{
+    font-size: 16px;
+line-height: 20px;
+
+color: #2D2323;
+}
+
+.listitem {
+    font-weight: 600;
+font-size: 20px;
+margin-bottom: 30px;
+}

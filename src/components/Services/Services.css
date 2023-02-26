@@ -1,0 +1,12 @@
+.services__body{
+    /* background: url("../../assets/Rectangle\ 1034.png"); */
+    background-color: rgba(175, 20, 75, 0.9);
+    height:500px;
+    color: white;
+}
+
+
+.service__img{
+    height: 300px;
+    width: 300px;
+}

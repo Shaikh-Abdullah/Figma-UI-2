@@ -1,0 +1,12 @@
+.active {
+    color: #AF144B !important;
+}
+
+.openbutton {
+    background: #FFFFFF !important;
+    border: 1.5px solid #FA5822 !important;
+    border-radius: 5px;
+    width: 150px;
+    color: #FA5822 !important;;
+}
+

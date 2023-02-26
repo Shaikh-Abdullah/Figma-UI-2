@@ -1,0 +1,14 @@
+.cardborder{
+    border: 1px solid #E3E3E3;
+border-radius: 10px;
+}
+
+.cardparent{
+    padding: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cardtext{
+    color: #787272;
+}

@@ -1,0 +1,9 @@
+.hero{
+    height: 746px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('../../assets/hero.png');
+    background-position: cover;
+    color: white;
+}
